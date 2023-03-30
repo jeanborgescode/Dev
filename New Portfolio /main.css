@@ -1,0 +1,48 @@
+html {
+    font-size: 22px;
+    font-family:serif;   
+    background-color: #172A3A ;
+    color:#75DDDD;
+    padding: 30px;
+    margin: 0;
+}
+
+button, input, textarea, select {
+    font: inherit;
+}
+
+h1 {
+    color: #09BC8A;
+    border: 6px outset #75DDDD;
+    width:fit-content;
+}
+
+body {
+    width: fit-content;
+    min-width: 100%;
+}
+
+a {
+    color:#508991;
+}
+a:visited {
+    color: #75DDDD;
+}
+a:hover, a:active {
+    color:#004346;
+}
+table, tr, th, td, caption{
+    border: 1px solid #508991;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.size {
+    font-size: 18px;
+}
+
+span {
+    font-style: oblique;
+    background-color: #508991;
+}
